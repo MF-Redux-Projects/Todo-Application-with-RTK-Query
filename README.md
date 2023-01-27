@@ -1,46 +1,29 @@
-# Getting Started with Create React App and Redux
+## [Todo Application with RTK Query](https://mf-todo-app.netlify.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+![GitHub repo size](https://img.shields.io/github/repo-size/MF-Redux-Projects/Todo-Application-with-RTK-Query?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/MF-Redux-Projects/Todo-Application-with-RTK-Query?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/MF-Redux-Projects/Todo-Application-with-RTK-Query?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/MF-Redux-Projects/Todo-Application-with-RTK-Query?color=red&style=plastic)
 
-## Available Scripts
 
-In the project directory, you can run:
+#### Project Features:
 
-### `npm start`
+- [x] Add Todo 
+- [x] Delete Todo
+- [x] Edit Todo
+- [x] Mark Todo as Complete
+- [x] Mark Todo as Incomplete
+- [x] Filter Todos
+- [x] Clear Completed Todos
+- [x] Complete All Todos
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#### Packages Use
+- [x] [React](https://reactjs.org/)
+- [x] [Redux](https://redux.js.org/)
+- [x] [React Redux](https://react-redux.js.org/)
+- [x] [Testing Library - Jest Dom](https://testing-library.com/docs/ecosystem-jest-dom/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## [Live Demo](https://mf-todo-app.netlify.app/)
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
+Design and developed by **[Mehedi Foysal](https://github.com/mehedifoysal)**
