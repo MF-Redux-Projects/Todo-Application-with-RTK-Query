@@ -2,7 +2,7 @@ import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 export const apiSlice = createApi({
   reducerPath: "api",
   baseQuery: fetchBaseQuery({
-    baseUrl: "https://todo-server-orl9.onrender.com",
+    baseUrl: "https://mf-redux.onrender.com",
   }),
   tagTypes: ["Todos"],
   endpoints: (builder) => ({
